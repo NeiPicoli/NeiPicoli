@@ -18,6 +18,12 @@
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-
-
 </div>
+
+
+
+
+
+
+<br><br>
+        ![Snake animation](https://github.com/NeiPicoli/NeiPicoli/blob/output/github-contribution-grid-snake.svg)
