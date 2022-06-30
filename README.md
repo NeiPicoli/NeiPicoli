@@ -10,6 +10,7 @@
 <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias em estudo...</h1>
+###########################################################################################################    
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
@@ -19,7 +20,7 @@
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 </div>
-
+########################################################################################################### 
 
 
 
