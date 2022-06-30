@@ -13,6 +13,7 @@
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg"/>
+<img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
 <img align="center" height="60" width="70" alt="nodejs-icon" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
