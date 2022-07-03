@@ -1,10 +1,12 @@
+ <img align="center" height="110em" src="https://github.com/NeiPicoli/Arquivos/blob/main/logo.suportefreelancefinal.png"/>
 
 >## Blz rapaziada DEV!
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NeiPicoli&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NeiPicoli&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeiPicoli&layout=compact&langs_count=16&theme=chartreuse-dark"/>
-</div>
+  <br><br>
+ </div>
 
 <div  align="center"> 
 <div style="display: inline_block"><br>
