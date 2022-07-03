@@ -1,4 +1,4 @@
-![teste]()
+
 >## Blz rapaziada DEV!
 
 <div>
