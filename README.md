@@ -21,5 +21,4 @@
 </div>
 ###################################################################################################### 
 
-<br><br>
-        ![Snake animation](https://github.com/NeiPicoli/NeiPicoli/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/NeiPicoli/NeiPicoli/blob/output/github-contribution-grid-snake.svg)
